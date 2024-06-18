@@ -66,3 +66,13 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+.signupForm {
+  background-color: lavender;
+  border: 3px solid #ccc;
+  border-radius: 10px;
+}
+.auth{
+  background-color: lightgreen;
+  border: 3px solid #ccc;
+  border-radius: 10px;
+}
